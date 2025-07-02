@@ -1,0 +1,24 @@
+{
+        "order_id":205154,
+        "customer_id":9771,
+        "order_date":"2024-07-12",
+        "shipping_date":"2024-07-16",
+        "order_status":"Pending",
+        "total_amount":133.15
+    },
+    {
+        "order_id":857862,
+        "customer_id":4478,
+        "order_date":"2024-09-27",
+        "shipping_date":"2024-10-02",
+        "order_status":"Shipped",
+        "total_amount":446.21
+    },
+    {
+        "order_id":561738,
+        "customer_id":2773,
+        "order_date":"2024-12-08",
+        "shipping_date":"2024-12-13",
+        "order_status":"Pending",
+        "total_amount":370.6
+    }
